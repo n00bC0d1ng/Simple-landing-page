@@ -28,10 +28,10 @@ Simple landing page created by using only CSS and HTML
 * [Easy Fullscreen Landing Page With HTML & CSS By - Traversy Media](https://www.youtube.com/watch?v=hVdTQWASliE)
 
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
-[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus)
+[6.1]: http://i.imgur.com/0o48UoR.png (github)
 
 [1]: http://www.twitter.com/dear__spider
 [2]: http://www.facebook.com/kaweendra
